@@ -1,5 +1,6 @@
 # 💫 About Me:
-### Hi there, I'm *Aswin A S*! 👋<br><br>I am an **AI/ML Developer**  driven by the challenge of bridging complex AI theories with real-world utility. My journey has taken me from developing automated rating systems as an intern at **Zecser Business LLP** to building independent, scalable AI architectures.<br><br>I specialize in **MLOps**, **Agentic AI**, and **RAG (Retrieval-Augmented Generation)**. I don't just build models; I build the pipelines that make them reliable, scalable, and production-ready.<br><br><br><br>
+### Hi there, I'm *Aswin A S*! 👋
+<br><br>I am an **AI/ML Developer**  driven by the challenge of bridging complex AI theories with real-world utility. My journey has taken me from developing automated rating systems as an intern at **Zecser Business LLP** to building independent, scalable AI architectures.<br><br>I specialize in **MLOps**, **Agentic AI**, and **RAG (Retrieval-Augmented Generation)**. I don't just build models; I build the pipelines that make them reliable, scalable, and production-ready.<br><br><br><br>
 ### 🔭 Current Focus<br>I am currently architecting a **Real-time Food Delivery ETA Prediction System** .<br> **The Goal:** To reduce delivery uncertainty using predictive modeling.<br> **The Tech:** Utilizing real-time data ingestion and advanced regression techniques to predict arrival times with high precision.<br><br><br><br>
 ### 🛠️ Featured Projects<br><br>| Project | Description | Tech Stack |<br><br>
 | **Veritas AI** | A **Multi-Agent Fact-Checking System** that orchestrates autonomous agents to verify claims against trusted sources. | *Multi-Agents, Python, LLMs* |<br>
@@ -27,16 +28,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ASWINdevop&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASWINdevop&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASWINdevop&show_icons=true)
 
-## 🏆 Achievements
-![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png)
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-
-
-
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
