@@ -28,7 +28,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASWINdevop&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ASWINdevop&theme=darkhub&no-frame=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ASWINdevop&theme=darkhub&no-frame=true)
+
 
 
 ### ✍️ Random Dev Quote
