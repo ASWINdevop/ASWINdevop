@@ -6,11 +6,13 @@
 | **LexAI** | A specialized **RAG Chatbot** trained on the **Consumer Protection Act 2019**, providing precise legal context through semantic search. | *RAG, Vector DBs, NLP* |<br>
 | **Churn Prediction** | An end-to-end **MLOps Pipeline** for customer retention, featuring automated training, versioning, and deployment. | *MLOps, Docker, CI/CD* |<br>
 | **Automated Reviews** | Developed during my internship, this system automates the rating and analysis of user feedback. | *Python, Sentiment Analysis* |<br><br>---<br><br>
-### ⚡ Technical Arsenal<br><br>* **Languages:** Python (Advanced), SQL<br>
-**Machine Learning:** Scikit-learn, Pandas, NumPy, TensorFlow/ PyTorch, Hugging Face, Pydantic, Trafilatura <br>
+### ⚡ Technical Arsenal<br><br>
+**Languages:** Python (Advanced), SQL<br>
+**Machine Learning:** Scikit-learn, XGBoost, Pandas, NumPy, TensorFlow, PyTorch, Hugging Face, Pydantic, Trafilatura,ONNX <br>
 **AI Domains:** Large Language Models (LLMs), RAG,Transformer,  Multi-Agent Systems<br>
 **DevOps & MLOps:** Docker, Git, GitHub Actions, CI/CD Pipelines<br>
-**Tools** Streamlit, Tableau, REST APIs, MLFlow, Prometheus, Grafana, FastAPI <br>
+**Tools** Streamlit, Tableau, REST APIs, MLFlow, Prometheus, Grafana, FastAPI, Uvicorn, SHAP, Apache Kafka, Redis, Parquet, Terraform, Great Expectations <br>
+**Cloud** AWS, ECS, S3, CloudWatch<br>
 <br>---<br><br>
 ### 🧠 Beyond the Code<br>When I'm not training models or optimizing pipelines, you can find me reading philosophy. I believe that understanding the nuances of human dialogue and thought is essential for building better Artificial Intelligence.<br><br>---<br><br><p align="left"><br>  <img src="https://komarev.com/ghpvc/?username=ASWINdevop&label=Profile%20Views&color=blue&style=flat" alt="ASWINdevop" /><br></p>
 
