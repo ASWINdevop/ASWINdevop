@@ -28,7 +28,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASWINdevop&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ASWINdevop&theme=darkhub&no-frame=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASWINdevop&show_icons=true)
+
+## 🏆 Achievements
+![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png)
+![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
 
 
 
