@@ -1,21 +1,23 @@
 # 💫 About Me:
  Hi there, I'm **Aswin A S**! 👋
 <br><br>I am an **AI/ML Developer**  driven by the challenge of bridging complex AI theories with real-world utility. My journey has taken me from developing automated rating systems as an intern at **Zecser Business LLP** to building independent, scalable AI architectures.<br><br>I specialize in **MLOps**, **Agentic AI**, and **RAG (Retrieval-Augmented Generation)**. I don't just build models; I build the pipelines that make them reliable, scalable, and production-ready.<br><br><br><br>
-### 🔭 Current Focus<br>I am currently architecting a **Real-time Food Delivery ETA Prediction System** .<br> **The Goal:** To reduce delivery uncertainty using predictive modeling.<br> **The Tech:** Utilizing real-time data ingestion and advanced regression techniques to predict arrival times with high precision.<br><br><br><br>
+
 ### 🛠️ Featured Projects<br><br>| Project | Description | Tech Stack |<br><br>
+| **CodeMind** | A Containerized Self-healing Cached Graph-RAG Codebase Agent | *Graph-RAG, Chroma DB, NetworkX, AST, Docker, Gemini, Streamlit* |<br>
+| **Real-Time Food Delivery ETA Engine** | A fully containerized and AWS deployed API micro-service to predict ETA for food delivery services | *Python, Docker, Kafka, Redis, AWS, Grafana* |<br>
 | **Veritas AI** | A **Multi-Agent Fact-Checking System** that orchestrates autonomous agents to verify claims against trusted sources. | *Multi-Agents, Python, LLMs* |<br>
 | **LexAI** | A specialized **RAG Chatbot** trained on the **Consumer Protection Act 2019**, providing precise legal context through semantic search. | *RAG, Vector DBs, NLP* |<br>
 | **Churn Prediction** | An end-to-end **MLOps Pipeline** for customer retention, featuring automated training, versioning, and deployment. | *MLOps, Docker, CI/CD* |<br>
-| **Automated Reviews** | Developed during my internship, this system automates the rating and analysis of user feedback. | *Python, Sentiment Analysis* |<br><br>---<br><br>
+| **Automated Reviews** | Developed during my internship, this system automates the rating and analysis of user feedback. | *Python, Sentiment Analysis* |<br><br><br>
 ### ⚡ Technical Arsenal<br><br>
 **Languages:** Python (Advanced), SQL<br>
 **Machine Learning:** Scikit-learn, XGBoost, Pandas, NumPy, TensorFlow, PyTorch, Hugging Face, Pydantic, Trafilatura,ONNX <br>
-**AI Domains:** Large Language Models (LLMs), RAG,Transformer,  Multi-Agent Systems<br>
+**AI Domains:** Large Language Models (LLMs), RAG, Graph-RAG, NetworkX, ChromaDB, Transformer,  Multi-Agent Systems<br>
 **DevOps & MLOps:** Docker, Git, GitHub Actions, CI/CD Pipelines<br>
-**Tools** Streamlit, Tableau, REST APIs, MLFlow, Prometheus, Grafana, FastAPI, Uvicorn, SHAP, Apache Kafka, Redis, Parquet, Terraform, Great Expectations <br>
-**Cloud** AWS, ECS, S3, CloudWatch<br>
-<br>---<br><br>
-### 🧠 Beyond the Code<br>When I'm not training models or optimizing pipelines, you can find me reading philosophy. I believe that understanding the nuances of human dialogue and thought is essential for building better Artificial Intelligence.<br><br>---<br><br><p align="left"><br>  <img src="https://komarev.com/ghpvc/?username=ASWINdevop&label=Profile%20Views&color=blue&style=flat" alt="ASWINdevop" /><br></p>
+**Tools:** Streamlit, Tableau, REST APIs, MLFlow, Prometheus, Grafana, FastAPI, Uvicorn, SHAP, Apache Kafka, Redis, Parquet, Terraform, Great Expectations, Snowflake <br>
+**Cloud:** AWS, ECS, S3, CloudWatch<br>
+<br><br>
+<br><br><p align="left"><br>  <img src="https://komarev.com/ghpvc/?username=ASWINdevop&label=Profile%20Views&color=blue&style=flat" alt="ASWINdevop" /><br></p>
 
 
 ## 🌐 Socials:
